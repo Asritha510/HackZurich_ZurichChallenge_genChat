@@ -1,0 +1,9 @@
+numpy
+pandas
+accelarate
+InstructorEmbedding
+langchain
+pypdf
+transformers
+torch
+chromadb
